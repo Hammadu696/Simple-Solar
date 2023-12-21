@@ -5,7 +5,7 @@
 Solar Simple is a website project for a solar seller, aimed at providing information about solar products and services. The project utilizes HTML, CSS, JavaScript for animations, and Mail.js for sending emails.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/hammadu696/Simple-Solar.git`
+1. Clone the repository: `git clone https://github.com/Hammadu696/Simple-Solar.git`
 2. Open the project folder in your code editor.
 
 ## Usage
