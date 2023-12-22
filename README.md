@@ -10,7 +10,7 @@ Solar Simple is a website project for a solar seller, aimed at providing informa
 
 ## Usage
 - Open `index1.html` to view the website.
-- Navigate through the different pages to explore the solar products and services.
+- Navigate through the different pages to explore the solar products and services..
 - Use the contact form to send inquiries via email.
 
 ## Technologies Used
